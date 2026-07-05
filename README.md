@@ -1,4 +1,4 @@
-# 🤖 Spring-React-With_OpenAI
+# 🤖 Spring-React-With-OpenAI
 
 A modern Full Stack AI Web Application built using **React.js**, **Spring Boot**, and **OpenAI API**. This application allows users to interact with AI through chat, generate images, and create recipes using Generative AI.
 
